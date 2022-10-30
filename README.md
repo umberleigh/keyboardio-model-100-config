@@ -5,6 +5,8 @@
 - Press AltGr + 3 to enter a £ symbol
 - Press AltGr + 4 to enter a € symbol
 
+Layout was created using [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+
 ### Installation in Windows 10
 
 1. Run `bin/setup.exe`
