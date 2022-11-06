@@ -25,6 +25,6 @@ Provides custom LED colours designed to be comfortable on the eyes in low light,
 1. Install and open [Chrysalis](https://github.com/keyboardio/Chrysalis/releases/tag/v0.12.0)
 2. Connect to your keyboard
 3. Click `Backup and Restore`
-4. Load `` from file
+4. Load `keyboardio_model_100_swapped_thumbs_custom_leds.json` from file
 5. Click Import
 6. Download settings to your keyboard
