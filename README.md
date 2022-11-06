@@ -9,11 +9,12 @@ Layout was created using [Microsoft Keyboard Layout Creator](https://www.microso
 
 ### Installation in Windows 10
 
-1. Run `bin/setup.exe`
+1. Run `us-gbp/setup.exe`
 2. From the start menu, go to Settings -> Time & Language -> Language
 3. Click on your current language -> Options -> Add a keyboard
 4. Select `US with £ and €`
 5. Remove other keyboards (eg. QWERTY)
+6. If the £ character isn't displaying correctly in some apps (eg. windows terminal) try rebooting your computer
 
 ## Chrysalis Configuration
 
