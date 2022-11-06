@@ -17,14 +17,14 @@
         "categories": ["blanks"]
       },
       {
-        "code": 224,
-        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
+        "code": 225,
+        "label": {"base": "Shift"},
         "location": "left",
         "categories": ["modifier"]
       },
       {
-        "code": 228,
-        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
+        "code": 229,
+        "label": {"base": "Shift"},
         "location": "right",
         "categories": ["modifier"]
       },
@@ -69,14 +69,14 @@
       {"code": 10, "label": {"base": "g", "shifted": "G"}},
       {"code": 41, "label": {"base": "Esc"}},
       {
-        "code": 225,
-        "label": {"base": "Shift"},
+        "code": 224,
+        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
         "location": "left",
         "categories": ["modifier"]
       },
       {
-        "code": 229,
-        "label": {"base": "Shift"},
+        "code": 228,
+        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
         "location": "right",
         "categories": ["modifier"]
       },
@@ -106,14 +106,14 @@
         "categories": ["layer", "shifttolayer"]
       },
       {
-        "code": 227,
-        "label": {"base": {"full": "Windows", "1u": "Win", "short": "W"}},
+        "code": 226,
+        "label": {"base": "Alt"},
         "location": "left",
         "categories": ["modifier"]
       },
       {
-        "code": 226,
-        "label": {"base": "Alt"},
+        "code": 227,
+        "label": {"base": {"full": "Windows", "1u": "Win", "short": "W"}},
         "location": "left",
         "categories": ["modifier"]
       },
@@ -431,9 +431,9 @@
         "categories": ["mousekeys"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 20497,
+        "label": {"hint": {"full": "Mouse Wheel", "1u": "M.Whl"}, "base": "Up"},
+        "categories": ["mousekeys"]
       },
       {
         "code": 20546,
@@ -554,9 +554,12 @@
       {"code": 70, "label": {"base": {"full": "Print Screen", "1u": "PrSc"}}},
       {"code": 73, "label": {"base": {"full": "Insert", "1u": "Ins"}}},
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 20498,
+        "label": {
+          "hint": {"full": "Mouse Wheel", "1u": "M.Whl"},
+          "base": "Down"
+        },
+        "categories": ["mousekeys"]
       },
       {
         "code": 20548,
@@ -2389,9 +2392,9 @@
       1,
       2,
       2,
-      15,
+      9,
       1,
-      15,
+      9,
       5,
       5,
       5,
@@ -2782,7 +2785,7 @@
     {"r": 61, "g": 195, "b": 167, "rgb": "rgb(61, 195, 167)"},
     {"r": 57, "g": 103, "b": 147, "rgb": "rgb(57, 103, 147)"},
     {"r": 93, "g": 40, "b": 143, "rgb": "rgb(93, 40, 143)"},
-    {"r": 0, "g": 0, "b": 0, "rgb": "rgb(0, 0, 0)"},
+    {"r": 119, "g": 196, "b": 100, "rgb": "rgb(119, 196, 100)"},
     {"r": 0, "g": 0, "b": 0, "rgb": "rgb(0, 0, 0)"},
     {"r": 0, "g": 0, "b": 0, "rgb": "rgb(0, 0, 0)"},
     {"r": 0, "g": 0, "b": 0, "rgb": "rgb(0, 0, 0)"},
